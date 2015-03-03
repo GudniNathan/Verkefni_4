@@ -185,32 +185,32 @@ This is the parent `<div>` that contains the menu and the content area.
     #layout.active {
         position: relative;
         left: 0;
-        top: 12em;
+        top: 14em;
     }
         #layout.active #menu {
 
             width: 100%;
-            top: 12em;
+            top: 14em;
         }
 
         #layout.active .menu-link {
             left: 0;
-            top: 13.7em;
+            top: 15.7em;
         }
 
 
 
 /*
 The `#menu` `<div>` is the parent `<div>` that contains the `.pure-menu` that
-appears on the left side of the page.
+appears on the top of the page.
 */
 
 #menu {
     display: inline-block;
-    margin-top: -12em;
+    margin-top: -14em;
     width: 100%;
     text-align: center;
-    height: 12em;
+    height: 14em;
     position: fixed;
     top: 0;
     left: 0;
