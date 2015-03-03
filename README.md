@@ -14,9 +14,10 @@ með þróun verkefnisins.
 ss. farsímum, spjaldtölvum og tölvuskjáum (+80em).
 7. Uppfærslur vefsins eru settar á Github ásamt skýringum. 
 
-# Bjargir: https://github.com/ skráning notenda.
-https://help.github.com/articles/set-up-git/
-https://training.github.com/kit/
-http://git-scm.com/book/en/v2 pdf bók.
-https://github.com/jameswillweb/github-for-web-designers/
-Sameign: S:\VSH2A3U\GitHub for Designers
+# Bjargir: 
+1. https://github.com/ skráning notenda.
+2. https://help.github.com/articles/set-up-git/
+3. https://training.github.com/kit/
+4. http://git-scm.com/book/en/v2 pdf bók.
+5. https://github.com/jameswillweb/github-for-web-designers/
+6. Sameign: S:\VSH2A3U\GitHub for Designers
