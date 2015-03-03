@@ -1,4 +1,4 @@
-# Verkefni-4
+# Verkefni 4
 VSH2A3U - Verkefni 4
 
 # Verkefnalýsing
