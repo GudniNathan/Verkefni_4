@@ -1,7 +1,7 @@
 # Verkefni 4
 VSH2A3U - Verkefni 4
 
-# Verkefnalýsing
+## Verkefnalýsing
 1. Nemendur skrá sig sem notendur á Github
 2. Tveir nemendur vinna saman að verkefni (project) sem þeir setja á Github. Unnið 
 er með vefinn sem gerður var í 3. verkefni.
@@ -14,7 +14,7 @@ með þróun verkefnisins.
 ss. farsímum, spjaldtölvum og tölvuskjáum (+80em).
 7. Uppfærslur vefsins eru settar á Github ásamt skýringum. 
 
-# Bjargir: 
+## Bjargir: 
 1. https://github.com/ skráning notenda.
 2. https://help.github.com/articles/set-up-git/
 3. https://training.github.com/kit/
