@@ -7,6 +7,7 @@
             box-sizing:border-box; /* Border og padding (px stærð) leggst inná öll div og hefur ekki áhrif á heildarbreidd */
 
             border: 1px solid gold;
+            min-height: 100%;
         }
         div div p,h1,h2,h3,h4, .pure-u-sm-2-5 img, header img{
             padding: 0.65em;
