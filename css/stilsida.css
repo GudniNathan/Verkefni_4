@@ -49,6 +49,7 @@
         p
         {
             margin: 5px;
+            color:black;
         }
         @media (min-width: 48em){
             p,a,h1,h2,h3,h4,th,td{
